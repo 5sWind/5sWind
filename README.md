@@ -1,15 +1,6 @@
-### 这里是5sWind 👋
+### 5sWind
 
-大家喜欢叫我5s，风。
-
-在GitHub上最大的愿望是写个AGI来帮我每天commit一些有趣的故事呢……
-
-不知道能不能实现呢……
-
-<!--
-**5sWind/5sWind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+『 』
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
